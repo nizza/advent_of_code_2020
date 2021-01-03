@@ -1,21 +1,6 @@
 import os
 import argparse
 
-def find_min_departure_time(x):
-    pass
-
-def is_prime(num):
-
-    res = True
-    div = 2
-    while div < num:
-        if not num % div:
-            res = False
-            break
-        div += 1
-
-    return res
-
 
 if __name__ == '__main__':
 
